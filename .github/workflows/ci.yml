@@ -1,5 +1,5 @@
 # 项目名
-name: dumi book test
+name: dumi demo
 
 # 只有在master分支发生push事件时触发
 on:
